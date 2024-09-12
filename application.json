@@ -1,0 +1,33 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFDEDE",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Submit new order",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    },
+    {
+      "id": "Admin",
+      "isDefault": false
+    },
+    {
+      "id": "My orders",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
+    }
+  ]
+}
